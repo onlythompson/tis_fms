@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tis_fms", "tis_fms\tis_fms.csproj", "{FD3E40B8-F7EE-4B1E-B55F-F8EFA3BB92FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{8DA40B36-D17B-48A5-99F2-604340BC2CE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tis_fms_domain", "tis_fms_domain\tis_fms_domain.csproj", "{1D067B55-61B0-4EC4-BAE3-A0EB9C0943DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD3E40B8-F7EE-4B1E-B55F-F8EFA3BB92FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD3E40B8-F7EE-4B1E-B55F-F8EFA3BB92FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD3E40B8-F7EE-4B1E-B55F-F8EFA3BB92FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD3E40B8-F7EE-4B1E-B55F-F8EFA3BB92FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DA40B36-D17B-48A5-99F2-604340BC2CE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DA40B36-D17B-48A5-99F2-604340BC2CE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DA40B36-D17B-48A5-99F2-604340BC2CE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DA40B36-D17B-48A5-99F2-604340BC2CE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D067B55-61B0-4EC4-BAE3-A0EB9C0943DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D067B55-61B0-4EC4-BAE3-A0EB9C0943DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D067B55-61B0-4EC4-BAE3-A0EB9C0943DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D067B55-61B0-4EC4-BAE3-A0EB9C0943DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
